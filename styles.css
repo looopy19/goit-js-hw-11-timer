@@ -1,0 +1,25 @@
+body {
+  font-family: "Special Elite", cursive;
+  font-size: 40px;
+  background-color: #c6d7eb;
+  color: #1868ae;
+}
+
+.timer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  width: 700px;
+  margin: 0 auto;
+  margin-top: 100px;
+}
+
+.field {
+  background-color: #d9a5b3;
+  margin-right: 10px;
+  padding: 20px 10px;
+  border-radius: 5px;
+}
